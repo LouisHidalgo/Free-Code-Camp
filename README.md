@@ -5,7 +5,7 @@
   </p>
 </div> 
 <div>
-  <h1>what is JavaScript Algorithms and Data Structure</h1> 
+  <h1>What is JavaScript Algorithms and Data Structure</h1> 
   <p>
     This curriculum focuses on JavaScript fundamentals, including variables, arrays, objects, functions, and ES6 features. I tackled multiple algorithm challenges and data structure problems, such as sorting algortihms and basic data manipulation. 
   </p>
